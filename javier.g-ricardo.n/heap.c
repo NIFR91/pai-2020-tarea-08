@@ -35,6 +35,8 @@ void bottomUpHeapify(int *arr, int k){
   return;
 } 
 
+// un poco 
+
 void topDownHeapify(int * arr, int k, int n){ 
   return;
 } 
